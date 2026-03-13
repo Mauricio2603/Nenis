@@ -1,2 +1,8 @@
 # Nenis
-Este repositorio solo es para dar una clase básica de git 
+
+Este repositorio es para aprender a usar git
+
+Softitlan MX
+
+
+
